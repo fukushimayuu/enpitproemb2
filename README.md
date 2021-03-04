@@ -4,3 +4,5 @@
 - add the second line
 - this is a conflict
 - 
+- exmple for a conflict
+- 
